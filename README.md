@@ -1,2 +1,2 @@
 # extracting_data
-this is a test file for practicing Coursera python project.
+this is the final assignment of Coursera python project.
